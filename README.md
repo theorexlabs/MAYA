@@ -1,2 +1,2 @@
-# RANI
-RANI : Your Own Personalized Personal Assistent 
+# RAANI
+RAANI : Your Own Personalized Personal Assistent 
