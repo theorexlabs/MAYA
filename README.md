@@ -1,2 +1,2 @@
-# RAANI
-RAANI : Your Own Personalized Personal Assistent 
+# MAYA
+MAYA : Your Own Personalized Personal Assistent 
