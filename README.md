@@ -1,2 +1,2 @@
 # MAYA
-MAYA : Your Own Personalized A.I Assistent 
+MAYA : Your Own Personalized AI Assistant 
